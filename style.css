@@ -19,6 +19,11 @@ body, html{
   width: 30%;
   height: 30%;
   position: relative;
-  left: 36%;
   top: 140px;
+  text-align: center;
+  padding-left: 35%;
+}
+
+.footertext{
+  font-size: 2.3vw;
 }
